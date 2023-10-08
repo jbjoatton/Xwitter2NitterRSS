@@ -1,6 +1,6 @@
 # Xwitter2NitterRSS
 
-Un [Bookmarklet]([url](https://fr.wikipedia.org/wiki/Bookmarklet)) pour créer un flux [RSS]([url](https://fr.wikipedia.org/wiki/RSS)) à partir d'un compte X-Twitter.
+Un [Bookmarklet](https://fr.wikipedia.org/wiki/Bookmarklet) pour créer un flux [RSS](https://fr.wikipedia.org/wiki/RSS) à partir d'un compte X-Twitter.
 
 ## Code
 
