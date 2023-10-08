@@ -33,12 +33,12 @@ javascript:(function() {
 - Copier le code ci-dessus et le coller dans le champ 'URL'.
 
 ## Utilisation
-- Une fois sur la page d'un compte X-Twitter, cliquer sur le favori. L'url du flux RSS est générée et copiée dans le presse-papier.
+- Une fois sur la page d'un compte X-Twitter, cliquer sur le bookmarklet. L'url du flux RSS est générée et copiée dans le presse-papier.
 - Ajouter le flux dans votre lecteur RSS préféré.
 
 ## Précisions
 - Le flux RSS est généré sur une des instances du projet [Nitter]([url](https://github.com/zedeus/nitter)). 
-- L'instance hébergée sur nohost.network continue de générer les flux RSS à la différence de l'instance principale nitter.net.
+- L'instance hébergée sur `nohost.network` continue de générer les flux RSS à la différence de l'instance principale `nitter.net`.
 
 ---
 
