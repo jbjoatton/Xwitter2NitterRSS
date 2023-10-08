@@ -1,6 +1,6 @@
 # Xwitter2NitterRSS
 
-Code d'un [bookmarklet]([url](https://fr.wikipedia.org/wiki/Bookmarklet)) pour créer un flux [RSS]([url](https://fr.wikipedia.org/wiki/RSS)) à partir d'un compte X-Twitter.
+Un [Bookmarklet]([url](https://fr.wikipedia.org/wiki/Bookmarklet)) pour créer un flux [RSS]([url](https://fr.wikipedia.org/wiki/RSS)) à partir d'un compte X-Twitter.
 
 ## Code
 
@@ -37,7 +37,7 @@ javascript:(function() {
 - Ajouter le flux dans votre lecteur RSS préféré.
 
 ## Précisions
-- Le flux RSS est généré sur une des instances du projet [Nitter]([url](https://github.com/zedeus/nitter)). 
+- Le flux RSS est généré sur une des instances du projet [Nitter](https://github.com/zedeus/nitter). 
 - L'instance hébergée sur `nohost.network` continue de générer les flux RSS à la différence de l'instance principale `nitter.net`.
 
 ---
