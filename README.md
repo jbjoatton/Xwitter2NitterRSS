@@ -1,5 +1,5 @@
 # Xwitter2NitterRSS
-Un bookmarklet pour créer un flux RSS à partir de la page d'un compte Xwitter :
+Un bookmarklet pour créer un flux RSS à partir de la page d'un compte X-Twitter :
 ```javascript
 javascript:(function() {
   var twitterUrl = window.location.href;
@@ -24,3 +24,6 @@ javascript:(function() {
 })();
 
 ```
+
+Le flux RSS est généré sur une des instances du projet Nitter https://github.com/zedeus/nitter
+L'instance hébergée sur nohost.network continue de générer le flux RSS à la différence de l'instance principale nitter.net.
