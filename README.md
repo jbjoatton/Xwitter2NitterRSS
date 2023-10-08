@@ -26,4 +26,5 @@ javascript:(function() {
 ```
 
 Le flux RSS est généré sur une des instances du projet Nitter https://github.com/zedeus/nitter
+
 L'instance hébergée sur nohost.network continue de générer le flux RSS à la différence de l'instance principale nitter.net.
