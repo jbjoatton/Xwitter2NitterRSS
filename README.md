@@ -8,7 +8,7 @@ javascript:(function() {
   
   if (match) {
     var username = match[1];
-    var nitterUrl = 'https://nitter.nohost.network/' + username + '/rss'; // Cette instance a encore le flux RSS activé, ce qui n'est pas le cas de nitter.net
+    var nitterUrl = 'https://nitter.nohost.network/' + username + '/rss';
     
     var tempInput = document.createElement('input');
     tempInput.value = nitterUrl;
